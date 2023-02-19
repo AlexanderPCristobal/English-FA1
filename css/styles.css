@@ -1,0 +1,107 @@
+<style>
+	
+	body {
+		margin: 0;
+		padding: 0;
+	}
+			
+	.header {
+		background-color: white;
+		border: solid #00000019;
+		border-width: 0 0 1px 0;
+	}
+			
+	.logo {
+		width: 650px;
+	}
+	
+	.post {
+		background-color: #fafafa;
+		border: solid #fafafa;
+		border-width: 60px 0 0 0;
+	}
+	
+	.post3 {
+		background-color: #fafafa;
+		border: solid #fafafa;
+		border-width: 60px 0 60px 0;
+	}
+	
+			
+	.author {
+		font-family: Arial, Helvetica;
+		font-size: 15px;
+		display: block; 
+		padding: 15px;
+		width: 620px; 
+		border: 1px solid #00000019;
+	}
+	
+	#profile {
+		border-radius: 50%;
+		padding-bottom: 7px;
+	}
+	
+	#name {
+		display: inline;
+		font-weight: bold;
+		padding-left: 10px;
+		vertical-align: 10px;
+	}
+	
+	.postText p {
+		margin: 0;
+		padding: 0;
+	}
+	
+	#posts {
+		max-height: 100%; 
+		max-width: 100%;
+	}
+			
+	.other {
+		display: block; 
+		padding: 15px;
+		width: 620px; 
+		border: 1px solid #00000019;
+	}
+	
+	.user {
+		padding: 15px;
+		padding-top: 0px;
+	}
+	
+	#user {
+		padding-right: 10px;
+		float: left;
+	}
+	
+	#views {
+		font-family: Arial, Helvetica;
+		font-size: 14px;
+		margin: 0; 
+		display: block; 
+		font-weight: bold; 
+		text-align: left; 
+		padding-left: 15px; 
+		padding-right: 15px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+	}
+			
+	.bold {
+		font-family: Arial, Helvetica;
+		font-size: 14px;
+		font-weight: bold;
+		text-align: left;
+		padding-left: 15px;
+		padding-right: 15px;
+		margin: 0;
+	}
+			
+	.normal {
+		font-family: Arial, Helvetica;
+		font-size: 14px;
+		font-weight: normal;
+	}
+</style>
